@@ -1,0 +1,33 @@
+.intro{
+margin-left: 0.5em;
+border: 0.5em;
+width: 30%;
+}
+
+.textBox{
+  margin-left: 0.5em;
+  border: 0.5em;
+}
+
+.radiobtns{
+  margin-left: 0.5em;
+  border-width:  0.5em;
+}
+.buts{
+margin-left: 0.5em;
+border-width: : 2em;
+
+}
+.type{
+  margin-left: 0.5em;
+  border: 0.5em;
+  border-style :groove;
+  margin: 0.5em;
+}
+
+.type2{
+  margin-left: 0.5em;
+  border: 0.5em;
+  border-style :groove;
+  margin: 0.5em;
+}
